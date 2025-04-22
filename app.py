@@ -175,7 +175,7 @@ def gallery():
     </head>
     <body>
         <header>
-          💍 החתונה של מאיה וסתיו – 28.04.2025 💍
+           החתונה של מאיה וסתיו – 28.04.2025 💍
         </header>
         <div class="gallery">
             {% for img in images %}
